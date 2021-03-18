@@ -44,6 +44,6 @@ split-horizon
 
 6.	Adjusting or changing the network (add/remove nodes, or change distance between nodes) can be done through the splithorizon.csv file 
 
-![image](https://user-images.githubusercontent.com/35574161/111636272-3a015a00-87f0-11eb-894e-44568b4d26ce.png)
+
 
 
