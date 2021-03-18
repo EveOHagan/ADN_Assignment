@@ -1,10 +1,13 @@
 # set of nodes
-N1,N2,N3,N4,N5
+N1,N2,N3,N4,N5,N6,N7
 
 # set of link with cost 
-N1,N2,4
-N1,N3,3
-N2,N3,1
-N3,N4,2
-N4,N5,4
-N2,N4,6
+N1,N2,1
+N1,N3,4
+N2,N3,3
+N2,N5,6
+N3,N4,4
+N4,N5,3
+N4,N6,5
+N5,N6,2
+

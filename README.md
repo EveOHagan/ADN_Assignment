@@ -6,13 +6,13 @@
 3. In the terminal please type: `pip install argparse, networkx`
 
 ## Installation & Running the project
-1. In the terminal please type:  `git clone https://github.com/EveOHagan/ADN_Assignment.git`
+1. In the terminal please type:  `git clone git@github.com:ppartarr/DistanceVectorRouting.git`
 2. In the terminal please type: `python network.py -f nodes.csv` 
 3. In Nodes.csv -> contains a prespecified set of notes and set of links with costs
 
 ## Usage
 1. In the terminal please type:  `help` to see command options 
-
+![Using help in the command line interface](https://github.com/ppartarr/DistanceVectorRouting/blob/master/img/DistanceVectorRouting.png)
 
 
 

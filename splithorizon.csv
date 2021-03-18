@@ -1,3 +1,7 @@
-A,B,C
-A,B,1
-B,C,3
+#set of nodes
+N1,N2,N3
+
+#set of links
+N1,N2,3
+N2,N3,2
+
